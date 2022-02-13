@@ -1,14 +1,14 @@
 tens=0;
-tens[((i++))]=$((RANDOM%100+100));
-tens[((i++))]=$((RANDOM%100+100));
-tens[((i++))]=$((RANDOM%100+100));
-tens[((i++))]=$((RANDOM%100+100));
-tens[((i++))]=$((RANDOM%100+100));
-tens[((i++))]=$((RANDOM%100+100));
-tens[((i++))]=$((RANDOM%100+100));
-tens[((i++))]=$((RANDOM%100+100));
-tens[((i++))]=$((RANDOM%100+100));
-tens[((i++))]=$((RANDOM%100+100));
+tens[((i++))]=$((RANDOM%100+900));
+tens[((i++))]=$((RANDOM%100+900));
+tens[((i++))]=$((RANDOM%100+900));
+tens[((i++))]=$((RANDOM%100+900));
+tens[((i++))]=$((RANDOM%100+900));
+tens[((i++))]=$((RANDOM%100+900));
+tens[((i++))]=$((RANDOM%100+900));
+tens[((i++))]=$((RANDOM%100+900));
+tens[((i++))]=$((RANDOM%100+900));
+tens[((i++))]=$((RANDOM%100+900));
 
 echo ${tens[@]};
 
